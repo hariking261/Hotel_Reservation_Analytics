@@ -8,7 +8,7 @@ The project was developed and executed using **MySQL 8.0 / MySQL Workbench**.
 
 ## Author
 
-**Harshini Valeti**
+**Hari Jonna**
 
 ## Objectives
 
@@ -130,4 +130,4 @@ The project demonstrates how SQL can be used to analyze hotel reservation data a
 
 ## Author
 
-**Harshini Valeti**
+**Hari Jonna**
